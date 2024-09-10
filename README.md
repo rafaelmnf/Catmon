@@ -20,11 +20,9 @@ Para construir o Catmon, utilizamos as seguintes tecnologias:
 HTML: A estrutura básica da página, como títulos, parágrafos e imagens.
 CSS: Para deixar tudo bonitinho e organizado, com cores e estilos personalizados.
 JavaScript: A mágica por trás das buscas e interações do usuário.
-## Como usar este projeto:
 
-Clone o repositório: Faça um clone deste repositório para sua máquina local.
-Instale as dependências: Se houver alguma dependência adicional, instale-as seguindo as instruções do package.json (caso exista).
-Execute o servidor: Inicie um servidor local para visualizar o projeto no seu navegador.
+## Segue o link do vercel do projeto:
+https://catmon.vercel.app/
 
 ## Contribuindo:
 
